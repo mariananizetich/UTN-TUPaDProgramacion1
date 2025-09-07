@@ -1,10 +1,21 @@
 # PRESENTACIÓN
 
-Soy Mariana Nizetich, estudiante de la Tecnicatura Universitaria en Programación a distancia de la UTN. Creo este repositorio para alojar mis trabajos prácticos de la carrera.
+Soy Mariana Nizetich, estudiante de la Tecnicatura Universitaria en Programación a distancia de la UTN. Este repositorio está destinado a alojar los trabajos prácticos que voy realizando a lo largo de la carrera, organizados por unidad.
 
 # CONTENIDO
 
-En este repositorio subiré los trabajos prácticos que realice durante la carrera. Por el momento, la consigna actual de la Unidad 2 consta en subir el Trabajo Práctico de la Unidad 1, en el cual se utiliza el lenguaje de programación Python,
-con un commit inicial en este repositorio. 
+En este repositorio encontrarán los trabajos prácticos realizados hasta la fecha:
+- **Unidad 1 (incluye Unidad 2):** Trabajo práctico inicial en Python y estructuras secuenciales.
+- **Unidad 3:** Trabajo práctico de **estructuras condicionales** en Python.  
+- **Unidad 4:** Trabajo práctico de **estructuras repetitivas** en Python.
 
-Próximamente iré agregando los archivos de las siguientes unidades a medida que avance la cursada.
+> Nota: La Unidad 2 fue entregada junto con la Unidad 1, por lo que no hay carpeta separada para ella.
+
+A medida que avance en la cursada, iré agregando los trabajos prácticos de las siguientes unidades.
+
+## Tecnologías utilizadas
+- Python 3.14
+
+---
+
+Repositorio actualizado regularmente según el progreso de la carrera.
