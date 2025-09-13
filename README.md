@@ -6,8 +6,9 @@ Soy Mariana Nizetich, estudiante de la Tecnicatura Universitaria en Programació
 
 En este repositorio encontrarán los trabajos prácticos realizados hasta la fecha:
 - **Unidad 1 (incluye Unidad 2):** Trabajo práctico inicial en Python y estructuras secuenciales.
-- **Unidad 3:** Trabajo práctico de **estructuras condicionales** en Python.  
-- **Unidad 4:** Trabajo práctico de **estructuras repetitivas** en Python.
+- **Unidad 3:** Trabajo práctico de **Estructuras Condicionales** en Python.  
+- **Unidad 4:** Trabajo práctico de **Estructuras Repetitivas** en Python.
+- **Unidad 5:** Trabajo práctico de **Listas** en Python.
 
 > Nota: La Unidad 2 fue entregada junto con la Unidad 1, por lo que no hay carpeta separada para ella.
 
