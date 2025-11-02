@@ -10,6 +10,8 @@ En este repositorio encontrarán los trabajos prácticos realizados hasta la fec
 - **Unidad 4:** Trabajo práctico de **Estructuras Repetitivas** en Python.
 - **Unidad 5:** Trabajo práctico de **Listas** en Python.
 - **Unidad 6:** Trabajo práctico de **Funciones** en Python.
+- **Unidad 7:** Trabajo práctico de **Datos Complejos** en Python.
+- **Unidad 8:** Trabajo práctico de **Manejo de archivos** en Python.
 
 > Nota: La Unidad 2 fue entregada junto con la Unidad 1, por lo que no hay carpeta separada para ella.
 
