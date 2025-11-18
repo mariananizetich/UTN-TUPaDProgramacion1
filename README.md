@@ -1,6 +1,6 @@
 # PRESENTACIÓN
 
-Soy Mariana Nizetich, estudiante de la Tecnicatura Universitaria en Programación a distancia de la Universidad Tecnológica Nacional - Argentina. Este repositorio está destinado a alojar los trabajos prácticos que realice a lo largo de la carrera, organizados por unidad.
+Soy Mariana Nizetich, estudiante de la **Tecnicatura Universitaria en Programación a distancia** de la **Universidad Tecnológica Nacional - Argentina**. Este repositorio está destinado a alojar los trabajos prácticos que realice a lo largo de la carrera, organizados por unidad.
 
 # CONTENIDO
 
